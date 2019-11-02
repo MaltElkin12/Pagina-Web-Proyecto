@@ -1,0 +1,28 @@
+#particles-js{
+    background: url(Imagenes/dc.jpg);
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+}
+.ancho-letras{
+    top: 200px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+}
+.letras-slider{
+    width: 80%;
+    margin: auto;
+}
+.letras-slider h1{
+    color: rgb(255, 0, 0);
+    font-family: jomo;
+    font-size: 50px;
+}
+.letras-slider h2{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    font-family: jomo;
+    padding-top: 20px;
+}
